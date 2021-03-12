@@ -1,0 +1,71 @@
+body{
+    background:rgb(184, 134, 134);
+}
+
+*{
+    font-family: Arial, Helvetica;
+    padding:0%;
+    margin: 0%;
+}
+
+.General{
+    padding: 20px;
+    background: rgb(73, 79, 80);
+    height: 550px;
+}
+
+.Menu{
+    list-style: none;
+    background:black;
+    width: 100%;
+}
+
+.Menu li a{
+    font-size: 18px;
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(219, 233, 27);
+    display: block;
+    text-align: center;
+}
+
+
+.Menu li{
+    display: inline-block;
+}
+
+
+.Menu li a:hover{
+    background: orange;
+}
+
+h3{
+  
+    text-align: center;
+}
+
+.ImgenCine img {
+    margin: 5px;
+    width: 400px;
+    float: left;
+}
+
+.parrafo{
+    padding: auto;
+    padding: 20px;
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.parrafo2{
+    margin: 5px;
+       width: 100%;
+       height: 100px;
+       background: rgb(252, 250, 250);
+       color: blue;
+       text-align: center;
+       font-size: 17px;
+       font-family: verdana;
+       font-style: italic;
+   }
